@@ -15,7 +15,7 @@ Highly motivated and having a keen interest in learning fullstack web developmen
 * 🤝  I'm open to collaborating on any interesting Web and Blockchain Projects.
 
 <a href="https://www.github.com/spirit-124" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/spirit-124?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/alpha2207" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/spirit-124?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Agraw512kumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
