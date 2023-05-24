@@ -3,7 +3,7 @@
 Hi 👋 My name is Bajrang Kumar
 =========================
 
-Emerging Fullstack Web🌎 & Blockchain🧬 Developer.
+Fullstack Web🌎 & Blockchain🧬 Developer.
 --------------------------------------
 
 Highly motivated and having a keen interest in learning fullstack web development with Blockchain Application Development also having a strong foundation in computer science principles. Currently pursuing a B.Tech degree in Computer Science from Parul University, where I have consistently achieved top grades and ranked 1st first with my team a campus-wide hackathon competition. I have also gained valuable hands-on experience through my Projects. Looking Forward to get some good Opportunities of Internship
