@@ -9,10 +9,11 @@ Fullstack Web🌎 & Blockchain🧬 Developer.
 Highly motivated and having a keen interest in learning fullstack web development with Blockchain Application Development also having a strong foundation in computer science principles. Currently pursuing a B.Tech degree in Computer Science from Parul University, where I have consistently achieved top grades and ranked 1st first with my team a campus-wide hackathon competition. I have also gained valuable hands-on experience through my Projects. Looking Forward to get some good Opportunities of Internship
 
 
-* 🌍  I'm based in India (🇮🇳)
-* ✉️  You can contact me at [0001spirit124.dev@gmail.com](mailto:0001spirit124.dev@gmail.com)
-* 🧠  I'm learning Backend Development.
-* 🤝  I'm open to collaborating on any interesting Web and Blockchain Projects.
+*  🌍  I'm based in India (🇮🇳)
+*  ✉️  You can contact me at [0001spirit124.dev@gmail.com](mailto:0001spirit124.dev@gmail.com)
+*  📫 This is my Portfolio Website : https://bajrang.vercel.app/
+*  🧠  I'm learning Backend Development.
+*  🤝  I'm open to collaborating on any interesting Web and Blockchain Projects.
 
 <a href="https://www.github.com/spirit-124" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/spirit-124?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -51,9 +52,12 @@ src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-
 
 ## 🌐 Socials:
 
-![HackSquad](https://www.hacksquad.dev/ticket/spirit-124)
+
 
 <p align="left"> <a href="https://www.github.com/spirit-124" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/void_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bajrang-kumar-21184b20b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Agraw512Kumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=spirit-124&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
 
@@ -63,12 +67,13 @@ src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-
 
 <a href="http://www.github.com/spirit-124"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spirit-124&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/spirit-124"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=spirit-124&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/spirit-124" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-124&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/0001spiritJ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
 
 
