@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/spirit-124?logo=github&style=for-th
 src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+> ## 💫 Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -49,10 +49,13 @@ src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-### Socials
+## 🌐 Socials:
+
+![HackSquad](https://www.hacksquad.dev/ticket/spirit-124)
 
 <p align="left"> <a href="https://www.github.com/spirit-124" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/void_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bajrang-kumar-21184b20b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Agraw512Kumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+
+## 📊 GitHub Stats:
 
 <b>My GitHub Stats</b>
 
@@ -64,7 +67,7 @@ src="https://img.shields.io/twitter/follow/Agraw512Kumar?logo=twitter&style=for-
 
 <a href="https://github.com/spirit-124" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-124&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+## Support Me
 <a href="https://www.buymeacoffee.com/0001spiritJ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
